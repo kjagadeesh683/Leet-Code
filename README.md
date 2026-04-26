@@ -9,11 +9,13 @@ Hands-on training on real interview coding questions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kjagadeesh683/Leet-Code/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kjagadeesh683/Leet-Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0049-group-anagrams](https://github.com/kjagadeesh683/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/kjagadeesh683/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kjagadeesh683/Leet-Code/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/kjagadeesh683/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/kjagadeesh683/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kjagadeesh683/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kjagadeesh683/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -21,6 +23,7 @@ Hands-on training on real interview coding questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/kjagadeesh683/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/kjagadeesh683/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kjagadeesh683/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kjagadeesh683/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -37,6 +40,7 @@ Hands-on training on real interview coding questions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/kjagadeesh683/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/kjagadeesh683/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kjagadeesh683/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 ## Two Pointers
