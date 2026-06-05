@@ -11,6 +11,7 @@ Hands-on training on real interview coding questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kjagadeesh683/Leet-Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/kjagadeesh683/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/kjagadeesh683/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
+| [0705-design-hashset](https://github.com/kjagadeesh683/Leet-Code/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/kjagadeesh683/Leet-Code/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ Hands-on training on real interview coding questions
 | [0217-contains-duplicate](https://github.com/kjagadeesh683/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kjagadeesh683/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kjagadeesh683/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0705-design-hashset](https://github.com/kjagadeesh683/Leet-Code/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/kjagadeesh683/Leet-Code/tree/main/0706-design-hashmap/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/kjagadeesh683/Leet-Code/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## String
@@ -53,13 +55,16 @@ Hands-on training on real interview coding questions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/kjagadeesh683/Leet-Code/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/kjagadeesh683/Leet-Code/tree/main/0706-design-hashmap/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/kjagadeesh683/Leet-Code/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/kjagadeesh683/Leet-Code/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/kjagadeesh683/Leet-Code/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/kjagadeesh683/Leet-Code/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
